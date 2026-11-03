@@ -1,0 +1,5 @@
+.venv/
+.qdrant/
+__pycache__/
+*.pyc
+.env
